@@ -6,4 +6,4 @@ jobs:
   call-reusable:
     uses: geant-val/geant-val-ci-workflows/.github/workflows/geant-val-ci-workflows.yaml@main
     with:
-      repository: 'dkonst13/TestEm3@main'
+      repository: 'dkonst13/TestEm3'
